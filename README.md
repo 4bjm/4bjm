@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4bjm
 - 👀 I’m interested in robots , microcontroller programming
-- 🌱 I’m currently learning microchip programming
+- 🌱 I’m currently learning microchip programming and Python
 - 💞️ I’m looking to collaborate on welding robots implementation
 - 📫 How to reach me 4bjm@embedders.org
 
